@@ -1,5 +1,5 @@
 {
-    "name": "octopush/sms-api",
+    "name": "brunonic/sms-api",
     "description": "Octopush - Send SMS like a PRO",
     "type": "library",
     "license": "MIT",
